@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+/* body{
+    background-color: #4ef0d5;
+} */
+
+html,
+body,
+#app {
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    min-width: 320px;
+    /* max-width: 640px; */
+    margin: 0 auto;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+dd{
+    overflow: hidden;
+}
+
+li{
+    list-style: none;
+}
+.center {
+    text-align: center;
+}
+ 
+
+
+
